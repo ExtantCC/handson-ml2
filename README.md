@@ -1,4 +1,4 @@
-Machine Learning Notebooks
+机器学习笔记（Machine Learning Notebooks）
 ==========================
 
 This project aims at teaching you the fundamentals of Machine Learning in
@@ -8,7 +8,7 @@ python. It contains the example code and solutions to the exercises in the secon
 
 **Note**: If you are looking for the first edition notebooks, check out [ageron/handson-ml](https://github.com/ageron/handson-ml).
 
-## Quick Start
+## 快速开始
 
 ### Want to play with these notebooks online without having to install anything?
 Use any of the following services.
